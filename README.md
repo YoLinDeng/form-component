@@ -1,5 +1,6 @@
 ### form-component
 基于vue2.x以及mand-mobile的移动端可配置表单组件
+[在线地址](https://yolindeng.gitee.io/form-component-website/)
 
 #### 使用方式
 ```
